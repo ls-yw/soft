@@ -1,0 +1,5 @@
+.settings/
+.project
+Runtime/
+.buildpath
+db.php
